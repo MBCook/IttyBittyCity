@@ -1,0 +1,14 @@
+Points are named as "XXYYname" where XX are the map X coords, YY is the map Y coords.
+name is the name of the point. Special names are:
+
+					*----------*
+					|          |
+					| TL    TR |
+					|          |
+					| BL    BR |
+					|          |
+					*----------*
+
+Curves are special because of the number of points they need done.
+
+

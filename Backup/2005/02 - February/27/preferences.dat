@@ -1,0 +1,17 @@
+cameraX, f, 10.0
+cameraY, f, 10.0
+cameraZ, f, 25.0
+cameraUpX, f, 0.0
+cameraUpY, f, 1.0
+cameraUpZ, f, 0.0
+cameraPointX, f, 10.0
+cameraPointY, f, 10.0
+cameraPointZ, f, 0.0
+windowWidth, i, 640
+windowHeight, i, 480
+fov, f, 45.0
+lightX, f, -1.0
+lightY, f, 0.5
+lightZ, f, 1.5
+near, f, 0.2
+far, f, 60.0

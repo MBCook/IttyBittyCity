@@ -1,0 +1,1 @@
+Started things, the object collection class, and the simulation object class (which is basically just a stub at this point.)

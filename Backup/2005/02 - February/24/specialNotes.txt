@@ -1,0 +1,2 @@
+Road tiles (the smaller) are 1 unit by 1 unit. Everything will be scaled to that.
+My test map of 22x17 has a center point at 11,8.5 which is where the camera looks.

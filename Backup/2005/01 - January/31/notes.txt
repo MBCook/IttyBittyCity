@@ -1,0 +1,1 @@
+Updated the car_video.py file. Should allow me to draw with normals and such if I want. Have to make the rest of the video before I can test it though.

@@ -1,0 +1,1 @@
+Got video working. What a strugle that was. Haven't tested lighting. Need to fix the windows and such on the car, they don't look quite right. Using a texture map would easily fix this.

@@ -1,0 +1,1 @@
+OK, texturing works (sorta). The problem is that the texture is VERY wrong and so it is drawn wrong because of that. I've got to fix that.

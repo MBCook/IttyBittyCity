@@ -1,0 +1,1 @@
+Program to make the node list and the distances are done, it pickles the dictionaries for easy access later. The thing gets displayed, but there is some odd bug (in PyOpenGL?) in that code involving glLoadIdentity(). While everytihng is drawn, there are clearly some errors (not the least of which are in curves). Things to do... things to do.

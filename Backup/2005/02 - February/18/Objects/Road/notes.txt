@@ -1,0 +1,29 @@
+Notes on the road:
+
+The road is designed so that a car is 80% of the width of a lane.
+A lane is 26 pixels wide.
+So a car should be 20.8 pixels wide.
+A car is actually 4 units wide.
+So it will be ~5 pixels per unit for this texture.
+That makes the textures (rounded) to 13 units square.
+But that isn't even, so we'll go with 12 units square. That should look good.
+
+Notes on road types:
+
+When something can be rotated, each increase in number is 90 degrees clockwise
+
+There are a couple of types of road:
+	0 is blank (simple ground)
+	1 is horizontal road (12x12 units)
+	2 is virticle road (12x12 units)
+	3-6 are T intersections (12x12 units).	3 points down
+											4 left
+											5 up
+											6 right
+	7 is a + intersecion (12x12 units)
+	8-11 are corners (24x24 units).			8 is bottom right of a circle
+											9 is bottom left of a circle
+											10 is top left of a circle
+											11 is top right of a circle
+
+That's all for noww.

@@ -1,0 +1,1 @@
+Made a skeleton of the video file so that I can get closer to testing my little car model, and made a preferences class to store global variables across modules and make things easy to change.

@@ -1,0 +1,3 @@
+IttyBittyCity is a little simulation I started writing to play with OpenGL. I got it to the point that a little 3d car (which I modeled by hand on graph paper) could drive around a set of roads on the screen using A* pathfinding.
+
+As I was writing it, I did quite a bit of over-reaching in pre-planning future features that I never got anywhere near adding, so the program is a bit more complex than it needed to be.

@@ -1,0 +1,1 @@
+Worked on getting things working. Video works (for now) in that I can display something, but I can't get things to display RIGHT. I don't know if I am using display lists right, but in the mean time I need to figure out how to move the camera correctly because that is currently a problem.

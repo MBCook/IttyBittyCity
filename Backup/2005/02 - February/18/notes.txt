@@ -1,0 +1,1 @@
+OK, texturing works. The problem was that the data was in RGB not RGBA, and that screwed up mipmaps. Go figure. Also, I enabled lighting. Added the road object and it's texture. Now the car shows up on a little stretch of road.

@@ -1,0 +1,1 @@
+Thing are looking good. The little map draws correctly (but the texture looks UGLY AS SIN). Right now it's scaled down so each subsquare is 1x1 units (instead of 12x12) for testing purposes. That hack is inside the Road.py file.

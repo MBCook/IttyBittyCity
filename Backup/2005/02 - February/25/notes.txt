@@ -1,0 +1,1 @@
+Starting to add the ability for the car to navigate its self. Wanted to save because I am about to make big changes to the Map class and then start using the Simulation class.

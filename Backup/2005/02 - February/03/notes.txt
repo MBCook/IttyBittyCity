@@ -1,0 +1,1 @@
+Finished the car object so that it should work (at least enough for the video test). Also created a simple ground object we can also use for the test. Touched up some other code. Time to start working on the video test.
